@@ -12,6 +12,7 @@ function App() {
         </p>
         <p>Title</p>
         <p>New branch 1</p>
+        <p>New branch 2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
